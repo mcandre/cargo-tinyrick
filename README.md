@@ -31,7 +31,7 @@ I'm tinyrick (TINYRICK!) and I build Rust projects. With tinyrick, you configure
 
 Look at my pants! tinyrick! You think my pants are one size fits all? No, of course not! So get the pants that fit you. Get a `tinyrick.rs` that fits your workflow. Task dependency trees, get em while they're hot! Segfaults, get em while they're not. Smarter, butter, faster, stranger.
 
-Don't shell out, lib out. Your build is more portable that way. tinyricktinyricktinyrick. If you look closely, that last period is actually a *micro* rick rendered in ASCII; even tinier tinyrick!
+Don't shell out, lib out. Your build is more portable that way. By the way, we use no DSL's here, just plain old ordinary Rust code. tinyricktinyricktinyrick. If you look closely, that last period is actually a *micro* rick rendered in ASCII; even tinier tinyrick!
 
 # CRATE
 
